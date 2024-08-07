@@ -1,0 +1,25 @@
+/*
+COLORS:
+=========
+LOGIN PAGE:
+Background: #000000
+
+Login-Background: linear-gradient(138.97deg, #111214 5.16%, #121212 105.18%);
+Text: #FFFFFF
+sign-up-text-color: background: #CCCCCC;
+border: border: 1px solid #707172
+
+Create-Accout-Btn-Color: background: linear-gradient(91.73deg, #4B63DD -2.99%, rgba(5, 36, 191, 0.99) 95.8%);
+Text: #FFFFFF (Open Sans)
+
+Already-have-color: background: #909296;
+
+*/
+
+/* OPEN SANS FONT: */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
